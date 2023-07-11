@@ -246,12 +246,13 @@ dynamic_title: true
 
 cursor:
   # Style of the cursor
-  #
-  # Values for 'cursor_style':
-  # - Block
-  # - Underline
-  # - Beam
-  style: Block
+  style:
+
+    # Values for 'shape':
+    # - ▇ Block
+    # - _ Underline
+    # - | Beam # - Beam
+    shape: Block
 
   # Whether the cursor should be a hollow block on window focus loss
   unfocused_hollow: true
