@@ -429,6 +429,8 @@ key_bindings:
 import:
 
   # Color scheme
-  # see: https://github.com/alacritty/alacritty-theme
-  - ~/.config/alacritty/gruvbox_dark.yaml
+  # Dark theme
+  # - ~/.config/alacritty/themes/gruvbox_dark.yaml
+  # Light theme
+  - ~/.config/alacritty/themes/Alabaster.yml
 
