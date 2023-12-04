@@ -430,7 +430,7 @@ import:
 
   # Color scheme
   # Dark theme
-  # - ~/.config/alacritty/themes/gruvbox_dark.yaml
+  - ~/.config/alacritty/themes/gruvbox_dark.yaml
   # Light theme
-  - ~/.config/alacritty/themes/Alabaster.yml
+  # - ~/.config/alacritty/themes/Alabaster.yml
 
