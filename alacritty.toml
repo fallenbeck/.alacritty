@@ -26,10 +26,6 @@ size = 13.0
 family = "Hack Nerd Font"
 style = "Bold"
 
-[font.glyph_offset]
-x = 0
-y = 1
-
 [font.italic]
 family = "Hack Nerd Font"
 style = "Italic"
@@ -41,6 +37,10 @@ style = "Regular"
 [font.offset]
 x = 0
 y = 0
+
+[font.glyph_offset]
+x = 0
+y = 1
 
 [[keyboard.bindings]]
 action = "SpawnNewInstance"
